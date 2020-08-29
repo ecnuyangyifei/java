@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ecnu.yangyifei.LongestSubstringTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-08-29T00:26:39" hostname="MacBook-Pro.local" time="0.025">
+  <properties/>
+  <testcase name="lengthOfLongestSubstring(String, int)[1]" classname="com.ecnu.yangyifei.LongestSubstringTest" time="0.017"/>
+  <testcase name="lengthOfLongestSubstring(String, int)[2]" classname="com.ecnu.yangyifei.LongestSubstringTest" time="0.0"/>
+  <testcase name="lengthOfLongestSubstring(String, int)[3]" classname="com.ecnu.yangyifei.LongestSubstringTest" time="0.001"/>
+  <testcase name="lengthOfLongestSubstring(String, int)[4]" classname="com.ecnu.yangyifei.LongestSubstringTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
